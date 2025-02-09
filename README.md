@@ -49,4 +49,4 @@ Valor disponível: R$ 795.00
 <p>🔹 Desenvolvido como exercício de prática em Java.</p>
     </div>
 
-<img src="[https://github.com/lluanamendes/simple_bank_application/blob/main/Capturar.PNG?raw=true]" alt="Exemplo de uso" width="300">
+<img src="https://github.com/lluanamendes/simple_bank_application/blob/main/Capturar.PNG?raw=true" alt="Exemplo de uso">
